@@ -1,5 +1,5 @@
 package ej_pag92_Garceta;
-
+//hola
 public class Contador {
     private int c = 0;
     Contador(int c) {
