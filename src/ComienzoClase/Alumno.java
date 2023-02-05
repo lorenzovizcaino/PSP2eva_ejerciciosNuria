@@ -6,7 +6,7 @@ public class Alumno extends Thread{
 	public Alumno (Bienvenida bienvenida) {
 		this.saludo = bienvenida;
 	}
-	//hola
+	
 	public void run () {
 		System.out.println("Alumno llego");
 		try {
