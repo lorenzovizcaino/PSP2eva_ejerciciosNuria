@@ -18,14 +18,14 @@ public class ComienzoClase {
 		
 		Bienvenida b = new Bienvenida();
 		
-		System.out.println("Introduzca el n�mero de alumnos: ");
+		System.out.println("Introduzca el numero de alumnos: ");
 		int n_alumnos = sc.nextInt();
 		
 		for (int i = 0; i<n_alumnos; i++) {
 			new Alumno(b).start();
 		}
 		
-		Profesor profesor = new Profesor("Pepito P�rez", b);
+		Profesor profesor = new Profesor("Pepito Perez", b);
 		profesor.start();
 	}
 }

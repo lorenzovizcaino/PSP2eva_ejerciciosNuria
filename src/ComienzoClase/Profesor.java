@@ -10,7 +10,7 @@ public class Profesor extends Thread {
 	}
 
 	public void run() {
-		System.out.println(nombre + " lleg�");
+		System.out.println(nombre + " llego");
 		try {
 			Thread.sleep(1000);
 			saludo.llegadaProfesor(nombre);

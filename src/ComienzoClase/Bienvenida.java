@@ -12,14 +12,14 @@ public class Bienvenida {
 			while (clase_comenzada == false) {
 				wait();
 			}
-			System.out.println("Buenos d�as profesor");
+			System.out.println("Buenos dias profesor");
 		} catch (InterruptedException ex) {
 			ex.printStackTrace();
 		}
 	}
 	
 	public synchronized void llegadaProfesor (String nombre) {
-		System.out.println("Buenos d�as a todos, soy el profesor " + nombre);
+		System.out.println("Buenos dias a todos, soy el profesor " + nombre);
 		this.clase_comenzada = true;
 		notifyAll();
 	}

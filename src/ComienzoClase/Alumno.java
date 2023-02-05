@@ -8,7 +8,7 @@ public class Alumno extends Thread{
 	}
 	
 	public void run () {
-		System.out.println("Alumno llegó");
+		System.out.println("Alumno llego");
 		try {
 			Thread.sleep(1000);
 			saludo.saludaProfesor();
