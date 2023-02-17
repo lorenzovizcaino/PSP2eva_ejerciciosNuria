@@ -1,4 +1,4 @@
-package Garceta.ProductorConsumidor.Ejemplo1;
+package e13_ProductorConsumidor1;
 
 public class Cola {
     private int numero;

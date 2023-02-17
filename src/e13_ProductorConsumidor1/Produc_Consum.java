@@ -1,4 +1,4 @@
-package Garceta.ProductorConsumidor.Ejemplo1;
+package e13_ProductorConsumidor1;
 
 /**
  * Implementar una aplicación compuesta por 3 clases:
