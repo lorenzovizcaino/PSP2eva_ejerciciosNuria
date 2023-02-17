@@ -1,4 +1,4 @@
-package Garceta.Ejercicio10;
+package e14_ProdConsFichero;
 
 import java.io.File;
 import java.io.FileReader;

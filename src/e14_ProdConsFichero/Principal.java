@@ -1,4 +1,4 @@
-package Garceta.Ejercicio10;
+package e14_ProdConsFichero;
 /**
  * Usando el modelo productor-consumidor, crea un productor que lea caracteres de un fichero de texto cuyo nombre
  * recibirá a través de su constructor.

@@ -1,4 +1,4 @@
-package RAMA.ej2_3;
+package e15_Relevos;
 
 public class Testigo {
     private int siguiente;

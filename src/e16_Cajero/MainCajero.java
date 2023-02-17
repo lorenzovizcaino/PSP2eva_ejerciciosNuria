@@ -1,4 +1,4 @@
-package Sonia.Bol8.Cajero;
+package e16_Cajero;
 
 /**
  * Diseña un programa que simule la gestión de un punto de venta con tres terminales que acceden a un

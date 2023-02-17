@@ -1,4 +1,4 @@
-package RAMA.ej2_3;
+package e15_Relevos;
 
 public class Corredor extends Thread {
     private static final int MAX_DELAY = 1000;

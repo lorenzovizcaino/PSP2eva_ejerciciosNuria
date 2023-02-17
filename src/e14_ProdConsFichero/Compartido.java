@@ -1,4 +1,4 @@
-package Garceta.Ejercicio10;
+package e14_ProdConsFichero;
 
 public class Compartido {
     private int numero;

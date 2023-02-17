@@ -1,4 +1,4 @@
-package Sonia.Bol8.Cajero;
+package e16_Cajero;
 
 public class Cajero {
     int localidades=0;
